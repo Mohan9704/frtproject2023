@@ -26,7 +26,7 @@ Recommending the best fertilizer for every particular crop is a challenging task
  
 # Project Demo Links :
 
-Github Repository Link :
+Github Repository Link : https://github.com/Mohan9704/frtproject2023
  
 Github Project Link : https://mohan9704.github.io/frtproject2023/
 
