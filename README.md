@@ -131,7 +131,7 @@ sources
  - CSS
  - JavaScript
  
-    All rights reserved by VADDELLA MOHAN. Developed for Future Ready Talent project.  
+    All rights reserved by VADDELLA MOHAN. Developed for Future Ready Talent Virtual Internship program.  
 
 
 
