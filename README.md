@@ -32,7 +32,7 @@ Github Project Link : https://mohan9704.github.io/frtproject2023/
 
 Project Demo Link : https://delightful-hill-02295f500.2.azurestaticapps.net
 
-Project Demo Video Link :
+Project Demo Video Link : https://youtu.be/rqRe1DXkeds
 
 # Features and Functionalities :
 
