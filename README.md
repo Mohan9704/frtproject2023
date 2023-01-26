@@ -34,6 +34,15 @@ Project Demo Link : https://delightful-hill-02295f500.2.azurestaticapps.net
 
 Project Demo Video Link :
 
+# Features and Functionalities :
+
+- Interactive and Responsive UI.
+- Has many graphical and visual innovative effects.
+- Has an aesthetically pleasing visual design and architecture.
+- Has collection of many web pages including Home, About, News, Stats, Testimonials, Gallery, Contact, Crop-HealthBot, Farm-locator and healthy farming information.
+- User can get get the information related to fertilizers and farming through this website.
+- User can rech out to us through social media handles like facebook, twitter, instagram and gmail  to receive the recommendations regarding fertilizers. 
+
 # Azure Resources, Static Web App, Azure Health Bot, Azure Maps :
 
 ## Azure Resources
